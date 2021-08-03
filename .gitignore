@@ -2,6 +2,8 @@
 .DS_Store
 .vscode/
 .idea/
+task.txt
+
 
 # Logs
 logs
